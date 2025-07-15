@@ -2,7 +2,6 @@
 """
 Created on Wed May 14 15:10:48 2025
 
-@author: ibargiotas
 """
 import streamlit as st
 import pandas as pd
